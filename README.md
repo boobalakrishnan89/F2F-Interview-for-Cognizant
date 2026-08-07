@@ -1,3 +1,14 @@
+# 📋 F2F Interview Preparation — Cognizant (Automation Test Engineer)
+
+> **Two comprehensive Q&A guides for Automation Test Engineer interviews at Cognizant**
+
+| Document | Experience Level | Questions | Topics |
+|---|---|---|---|
+| 📄 **[Standard Level (this page)](#-automation-test-engineer--in-depth-interview-qa-1)** | 3-8 Years | 58 Questions | Java, Selenium, REST Assured, Frameworks, SQL, Agile |
+| 🚀 **[Senior Level (SENIOR_LEVEL_QA.md)](SENIOR_LEVEL_QA.md)** | 10+ Years | 40 Questions | Test Architecture, Design Patterns, Microservices, Performance, Security, Leadership |
+
+---
+
 # 🎯 Automation Test Engineer — In-Depth Interview Q&A
 
 > Covers: Java, Selenium WebDriver, API Testing, REST Assured, Test Automation Frameworks, SQL, Agile Methodology, and Behavioral/Scenario-based questions aligned to the job responsibilities.
